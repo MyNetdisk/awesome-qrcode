@@ -1,0 +1,3 @@
+[submodule "flutter-awesome-qrcode"]
+	path = flutter-awesome-qrcode
+	url = git@github.com:MyNetdisk/flutter-awesome-qrcode.git
